@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+	<style type="text/css">.social {
+ 
+    width:300px;
+    margin:10px;
+    margin-left: auto;
+    margin-right: auto;
+
+      }
+
+#intro {
+
+  color: white;
+  position: relative;
+  
+  text-align: relative;
+  background: #799FBF;
+  border-radius: 1px 1px 1px 5px;
+   width: 410px;
+  height: 40px;
+  box-shadow: 0px 0.5px 0px 1px rgba(119, 119, 119, 1);
+}
+
+.context {
+ float: left;
+    background: white;
+    width: 400px;
+  height: 470px;
+  background: rgba(255, 255, 255, 0.9);
+  background-size: 30px;
+  border-radius: 1px 1px 40px 1px;
+  text-align:left;
+font-family: 'Titillium Web', sans-serif;
+padding-left: 20px;
+padding-right: 10px;
+box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+
+ 
+
+
+}
+
+body {
+ 
+   /*background: url('file:///Users/Edwiq/Desktop/Website%20files/Imgs/ed-studio-v01.jpg') no-repeat;*/
+   background: url('/Imgs/ed-studio-v01.jpg') no-repeat;
+   background-size: 1450px 850px;
+}
+	</style>
+	<link href="http://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+	</style>
+</head>
+<body>
+<div class="context">
+<div id="name">
+<p><font size="7"><font face="avenir">Eduard Lukyanov</font></font></p>
+</div>
+
+<div id="intro">
+<h3>Original music and sound design</h3>
+</div>
+
+<div class="bio">
+<h4></h4>
+
+<p>Ed is an electronic music producer and a sound designer. New York is his base. Brooklyn is his playground.</p>
+
+<p><a href="https://vimeo.com/edviq" style="text-decoration:none" target="_blank"><span style="color: #FF5926;">Mercedes Benz, NBC Sports, Audi</span></a> are some of his clients. European and american TV are some of his outlets.</p>
+
+<p>When he is not clicking the mouse Ed is pushing the pedals of his Brompton through the streets of Manhattan.</p>
+</div>
+
+<br>
+
+<div class="social">
+<div id="soundcloud"><a href="https://www.linkedin.com/in/elukyanov" target="_blank"><img alt="LinkedIn" height="10%" hspace="10%" src="/Imgs/In-2C-121px-TM.png" width="10%" /></a> 
+
+<a href="https://soundcloud.com/edviq/" target="_blank"><img alt="Soundcloud" height="15%" hspace="3%" src="/Imgs/sc_st_gradient_460x290.png" width="15%" /></a>
+
+ <a href="https://twitter.com/EdviqMuziq/" target="_blank"><img alt="Twitter" height="8%" hspace="10%" src="/Imgs/Twitter_logo_blue.png" width="8%" /></a></div>
+</div>
+</div>
+</body>
+</html>
